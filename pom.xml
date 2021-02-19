@@ -12,7 +12,7 @@
 
 	<groupId>spring-devops</groupId>
 	<artifactId>spring-devops</artifactId>
-	<version>0.0.3</version>
+	<version>0.0.4-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>spring-devops</name>
 	<description>Devops</description>
@@ -37,7 +37,7 @@
   <connection>scm:git:git@github.com:rajatmshukla/spring-devops</connection>
   <developerConnection>scm:git:git@github.com:rajatmshukla/spring-devops</developerConnection>
   <url>git@github.com:rajatmshukla/spring-devops</url>
-  <tag>v0.0.3</tag>
+  <tag>HEAD</tag>
 </scm>
 	
 	
